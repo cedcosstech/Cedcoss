@@ -1,2 +1,2 @@
 echo "Avinash has gone mad";
-echo "I'm editting this file again";
+echo "I'm editing this file again";
